@@ -2,7 +2,7 @@ Delani-studio
 Description
 This is a project is delani studio.
 This website was build on
-###{14 feb 2020}
+###{22 feb 2020}
 
 By Abdihafid Abdi
 Site
