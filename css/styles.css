@@ -1,0 +1,42 @@
+.jumbotron{
+    background-image: url("../assets/backgrounds/h_img.jpg");
+}
+.section2{
+    text-align: center;
+}
+.section1{
+    text-align: center;
+}
+.third-text{
+    background-image: url("../assets/backgrounds/s_image.jpg");
+    color: white;
+}
+.row{
+    align-items: center;
+}
+h1{
+    text-align: center;
+}
+.second-text{
+    text-align: center;
+}
+.col-md-4{
+    text-align: center;
+}
+.share{
+    text-align: center;
+    opacity: 0.5;
+    background-image: url("../assets/backgrounds/c_image.jpg");
+}
+#text1, #text2, #text3{
+    display: none;
+}
+h1{
+    color: white;
+}
+h6{
+    color: white;
+}
+.pick{
+    text-align: center;
+}
